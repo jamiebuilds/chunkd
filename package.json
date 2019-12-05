@@ -13,7 +13,7 @@
 		"total"
 	],
 	"files": [
-		"dist/chunkd.js"
+		"dist"
 	],
 	"scripts": {
 		"check:typescript": "tsc --noEmit",
