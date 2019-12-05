@@ -1,6 +1,6 @@
 {
 	"name": "chunkd",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "Get a chunk of an array based on the total number of chunks and current index",
 	"main": "dist/chunkd.js",
 	"repository": "jamiebuilds/chunkd",
